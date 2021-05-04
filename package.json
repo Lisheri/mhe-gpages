@@ -11,7 +11,7 @@
     "bin"
   ],
   "bin": "bin/mhe-pages.js",
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "browser-sync": "^2.26.7",
